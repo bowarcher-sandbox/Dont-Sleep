@@ -220,4 +220,4 @@ Don't Sleep is the full free version, offering all features and updates included
 Take control of your computer's uptime with Don't Sleep. **Download it now for a seamless working experience!**
 
 ---
-**Last updated:** 2026-09-18 21:32:56 UTC
+**Last updated:** 2026-09-19 00:03:00 UTC
